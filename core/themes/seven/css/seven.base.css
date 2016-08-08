@@ -85,6 +85,9 @@ address {
 u {
   text-decoration: underline;
 }
+ins {
+  text-decoration: none;
+}
 s,
 strike,
 del {
