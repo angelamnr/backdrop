@@ -82,8 +82,7 @@ blockquote * {
 address {
   font-style: italic;
 }
-u,
-ins {
+u {
   text-decoration: underline;
 }
 s,
